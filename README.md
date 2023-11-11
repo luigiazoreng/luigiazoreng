@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luigiazoreng
 - 👀 I’m interested in programming and eletronics.
 - 🌱 I’m currently learning how to develop API's in TypeScript/C#/Go and Eletronics Design/Simulation.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on OpenSource Projects.
 - 📫 How to reach me: luigiazoreng@gmail.com
 
 <!---
